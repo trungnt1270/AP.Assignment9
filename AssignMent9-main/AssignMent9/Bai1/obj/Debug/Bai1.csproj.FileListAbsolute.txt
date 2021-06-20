@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\AssignMent9\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\Administrator\source\repos\AssignMent9\Bai1\bin\Debug\Bai1.exe
+C:\Users\Administrator\source\repos\AssignMent9\Bai1\bin\Debug\Bai1.pdb
+C:\Users\Administrator\source\repos\AssignMent9\Bai1\obj\Debug\Bai1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AssignMent9\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AssignMent9\Bai1\obj\Debug\Bai1.exe
+C:\Users\Administrator\source\repos\AssignMent9\Bai1\obj\Debug\Bai1.pdb
